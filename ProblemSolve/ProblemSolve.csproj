@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="LeetCode\" />
-    <Folder Include="DSA\" />
   </ItemGroup>
 
 </Project>

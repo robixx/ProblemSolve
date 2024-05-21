@@ -12,3 +12,4 @@ E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\refint\ProblemSol
 E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.pdb
 E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.genruntimeconfig.cache
 E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ref\ProblemSolve.dll
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.sourcelink.json
