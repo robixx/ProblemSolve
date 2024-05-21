@@ -1,0 +1,14 @@
+E:\Robi\Programming\ProblemSolve\ProblemSolve\bin\Debug\net8.0\ProblemSolve.exe
+E:\Robi\Programming\ProblemSolve\ProblemSolve\bin\Debug\net8.0\ProblemSolve.deps.json
+E:\Robi\Programming\ProblemSolve\ProblemSolve\bin\Debug\net8.0\ProblemSolve.runtimeconfig.json
+E:\Robi\Programming\ProblemSolve\ProblemSolve\bin\Debug\net8.0\ProblemSolve.dll
+E:\Robi\Programming\ProblemSolve\ProblemSolve\bin\Debug\net8.0\ProblemSolve.pdb
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.GeneratedMSBuildEditorConfig.editorconfig
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.AssemblyInfoInputs.cache
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.AssemblyInfo.cs
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.csproj.CoreCompileInputs.cache
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.dll
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\refint\ProblemSolve.dll
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.pdb
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ProblemSolve.genruntimeconfig.cache
+E:\Robi\Programming\ProblemSolve\ProblemSolve\obj\Debug\net8.0\ref\ProblemSolve.dll
