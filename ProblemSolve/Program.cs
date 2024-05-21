@@ -1,10 +1,14 @@
-﻿namespace ProblemSolve
+﻿using ProblemSolve.DSA;
+
+namespace ProblemSolve
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            ArraySorting arraySorting = new ArraySorting();
+
+            arraySorting.ArraySort();
         }
     }
 }
