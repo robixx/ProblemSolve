@@ -1,4 +1,5 @@
 ﻿using ProblemSolve.DSA;
+using ProblemSolve.LeetCode;
 
 namespace ProblemSolve
 {
@@ -6,9 +7,15 @@ namespace ProblemSolve
     {
         static void Main(string[] args)
         {
-            ArraySorting arraySorting = new ArraySorting();
+            //ArraySorting arraySorting = new ArraySorting();
 
-            arraySorting.ArraySort();
+            //arraySorting.ArraySort();
+
+
+
+            RemoveDuplicateArray removeDuplicateArray = new RemoveDuplicateArray();
+
+            removeDuplicateArray.DuplicateRemove();
         }
     }
 }
